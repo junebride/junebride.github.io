@@ -1,0 +1,45 @@
+/* #43A4BC */
+/* #4367BC */
+/* #43BC98 */
+
+#header {
+	background-color: #43a4bc !important;
+}
+
+#header > nav ul li a.active {
+	color: #43bc98 !important;
+}
+
+#header > header {
+    padding: 3em 1.5em
+}
+
+#header > header p {
+	color: #fff;
+}
+
+header.major h2 {
+	color: #43a4bc !important;
+}
+
+#header > nav ul li {
+	border-top: solid 2px #43bc98 !important;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #000 !important;
+}
+
+ul.feature-icons li:before {
+	background: #4367bc;
+}
+
+a:hover {
+    color: #43A4BC !important
+}
