@@ -51,3 +51,9 @@ a:hover {
 .features article {
 	border-top: solid 3px #43BC98;
 }
+
+.feature-icons li {
+	padding-top: 0 !important;
+	line-height: normal;
+	margin-bottom: 2em !important
+}
