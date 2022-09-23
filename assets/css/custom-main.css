@@ -7,11 +7,11 @@
 }
 
 #header > nav ul li a.active {
-	color: #43bc98 !important;
+	color: #4367bc !important;
 }
 
 #header > header {
-    padding: 3em 1.5em
+	padding: 3em 1.5em;
 }
 
 #header > header p {
@@ -41,5 +41,13 @@ ul.feature-icons li:before {
 }
 
 a:hover {
-    color: #43A4BC !important
+	color: #43a4bc !important;
+}
+
+.carousel {
+	background-color: gray;
+}
+
+.features article {
+	border-top: solid 3px #43BC98;
 }
